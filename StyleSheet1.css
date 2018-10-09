@@ -1,0 +1,28 @@
+﻿body {
+    background-color:rgba(255, 130, 0,0.3);
+  
+}
+#title{
+    text-align:center;
+    
+   
+}
+#title h1{
+     font-size:3.5em;
+     color:red;
+}
+
+#result{
+    font-size:2em;
+    color:#af333d;
+}
+.text-danger{
+    font-size:1.3em;
+    color:#af333d;
+}
+#Button1{
+    color:black;
+}
+/*.errors{
+    color:red;
+}*/
